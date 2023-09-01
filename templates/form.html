@@ -1,0 +1,87 @@
+{% extends 'base.html' %}
+{% block styles %}
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}">
+{% endblock styles %}
+{% block content %}
+
+<style>
+body {
+  background-image: url('static/img/ta_background.png');
+  background-size: contain;
+}
+</style>
+
+<nav>
+    <h1>-------------- Farrstrom Soundworks Tonewood Assistant --------------</h1>
+</nav>
+<div class="form-wrapper">
+    <div class="guide">
+        <ol>
+            <h2>Using This Tool</h2>
+            <li>Align the form options as desired</li>
+            <li>Click "Identify"</li>
+            <li>To test another selection, simply return to the previous page</li>
+            <li>Scroll down for data visualizations!</li>
+        </ol>
+    </div>
+    <form class="form" action="/" method="POST">
+        <p>Body Shape</p>
+        <select id="BodyShape" name="bs">
+            <option value="1">Possession</option>
+            <option value="0">Olympus</option>
+            <option value="2">Rainier</option>
+        </select>
+        <p>Top Wood</p>
+        <select id="TopWood" name="tw">
+            <option value="3">Sitka Spruce</option>
+            <option value="0">Adirondack Spruce</option>
+            <option value="5">Western Red Cedar</option>
+            <option value="4">Sunken Redwood</option>
+            <option value="1">Figured Myrtlewood</option>
+            <option value="2">Honduran Mahogany</option>
+        </select>
+        <p>Back/Side Wood</p>
+        <select id="BackSideWood" name="bsw">
+            <option value="1">Figured Maple</option>
+            <option value="2">Figured Myrtlewood</option>
+            <option value="0">Figured Koa</option>
+            <option value="5">Honduran Mahogany</option>
+            <option value="3">Indian Rosewood</option>
+            <option value="4">Macassar Ebony</option>
+        </select>
+        <p>Cutaway</p>
+        <select id="Cutaway" name="ca">
+            <option value="0">No</option>
+            <option value="1">Yes</option>
+        </select>
+        <p>Finish Style</p>
+        <select id="Finish" name="f">
+            <option value="0">Gloss</option>
+            <option value="1">Oil</option>
+        </select>
+        <button type="submit" class="btn">Predict Tonal Rating</button>
+    </form>
+</div>
+
+
+<div class="img-wrapper">
+    <h2>Data Visualization</h2>
+    <img src="static/img/tonetotal.png" alt="">
+    <h3>Characteristic Significance Heat Map</h3>
+    <img src="static/img/heatmap.png" alt="">
+    <h3>Characteristic Significance Graph</h3>
+    <img src="static/img/keychar.png" alt="">
+    <h3>Top Wood</h3>
+    <img src="static/img/classtw.png" alt="">
+    <h3>Back/Side Wood</h3>
+    <img src="static/img/classbsw.png" alt="">
+    <h3>Body Shape</h3>
+    <img src="static/img/classbs.png" alt="">
+    <h3>Finish</h3>
+    <img src="static/img/classf.png" alt="">
+    <h3>Cutaway</h3>
+    <img src="static/img/classc.png" alt="">
+
+</div>
+
+{% endblock content %}

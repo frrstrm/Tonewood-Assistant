@@ -1,0 +1,1541 @@
+﻿SN,BodyStyle,RatingClass,Cutaway,Finish,TopWood,TopTone,TopOvertones,BackSideWood,BackTone,BackOvertones,TopFrequency,BackFrequency,FundamentalFrequency,NeckWood
+41,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+42,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+43,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+44,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+45,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+46,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Mahogany,9,7,179,222,101.7,Mahogany
+47,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Mahogany,9,7,180,222,101.955,Mahogany
+48,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Mahogany,9,7,181,223,102.4625,Mahogany
+49,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Mahogany,9,7,182,225,103.2225,Mahogany
+50,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Mahogany,9,7,183,224,103.225,Mahogany
+51,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+52,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+53,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+54,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+55,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+56,Olympus,Bad,No,Gloss,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,179,222,101.7,Mahogany
+57,Olympus,Bad,No,Gloss,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,180,222,101.955,Mahogany
+58,Olympus,Bad,No,Gloss,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,181,223,102.4625,Mahogany
+59,Olympus,Bad,No,Gloss,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,182,225,103.2225,Mahogany
+60,Olympus,Bad,No,Gloss,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,183,224,103.225,Mahogany
+61,Olympus,Bad,No,Gloss,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+62,Olympus,Bad,No,Gloss,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+63,Olympus,Bad,No,Gloss,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+64,Olympus,Bad,No,Gloss,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+65,Olympus,Bad,No,Gloss,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+66,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Figured Koa,9.2,8,179,222,101.7,Mahogany
+67,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Figured Koa,9.2,8,180,222,101.955,Mahogany
+68,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+69,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+70,Olympus,Good,No,Gloss,Sitka Spruce,8.2,8,Figured Koa,9.2,8,183,224,103.225,Mahogany
+71,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+72,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+73,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+74,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+75,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+76,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Mahogany,9,7,179,222,101.7,Mahogany
+77,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Mahogany,9,7,180,222,101.955,Mahogany
+78,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Mahogany,9,7,181,223,102.4625,Mahogany
+79,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Mahogany,9,7,182,225,103.2225,Mahogany
+80,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Mahogany,9,7,183,224,103.225,Mahogany
+81,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+82,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+83,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+84,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+85,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+86,Olympus,Bad,No,Gloss,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+87,Olympus,Bad,No,Gloss,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+88,Olympus,Bad,No,Gloss,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+89,Olympus,Bad,No,Gloss,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+90,Olympus,Bad,No,Gloss,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+91,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,179,222,101.7,Mahogany
+92,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,180,222,101.955,Mahogany
+93,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+94,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+95,Olympus,Good,No,Gloss,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,183,224,103.225,Mahogany
+96,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+97,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+98,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+99,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+100,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+101,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Mahogany,9,7,179,222,101.7,Mahogany
+102,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Mahogany,9,7,180,222,101.955,Mahogany
+103,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Mahogany,9,7,181,223,102.4625,Mahogany
+104,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Mahogany,9,7,182,225,103.2225,Mahogany
+105,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Mahogany,9,7,183,224,103.225,Mahogany
+106,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+107,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+108,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+109,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+110,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+111,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,179,222,101.7,Mahogany
+112,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,180,222,101.955,Mahogany
+113,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,181,223,102.4625,Mahogany
+114,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,182,225,103.2225,Mahogany
+115,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,183,224,103.225,Mahogany
+116,Olympus,Bad,No,Gloss,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+117,Olympus,Bad,No,Gloss,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+118,Olympus,Bad,No,Gloss,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+119,Olympus,Bad,No,Gloss,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+120,Olympus,Bad,No,Gloss,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+121,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Koa,9.2,8,179,222,101.7,Mahogany
+122,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Koa,9.2,8,180,222,101.955,Mahogany
+123,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+124,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+125,Olympus,Good,No,Gloss,Sunken Redwood,8.4,10,Figured Koa,9.2,8,183,224,103.225,Mahogany
+126,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+127,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+128,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+129,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+130,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+131,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Mahogany,9,7,179,222,101.7,Mahogany
+132,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Mahogany,9,7,180,222,101.955,Mahogany
+133,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Mahogany,9,7,181,223,102.4625,Mahogany
+134,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Mahogany,9,7,182,225,103.2225,Mahogany
+135,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Mahogany,9,7,183,224,103.225,Mahogany
+136,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+137,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+138,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+139,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+140,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+141,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,179,222,101.7,Mahogany
+142,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,180,222,101.955,Mahogany
+143,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,181,223,102.4625,Mahogany
+144,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,182,225,103.2225,Mahogany
+145,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,183,224,103.225,Mahogany
+146,Olympus,Bad,No,Gloss,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+147,Olympus,Bad,No,Gloss,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+148,Olympus,Bad,No,Gloss,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+149,Olympus,Bad,No,Gloss,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+150,Olympus,Bad,No,Gloss,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+151,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Koa,9.2,8,179,222,101.7,Mahogany
+152,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Koa,9.2,8,180,222,101.955,Mahogany
+153,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+154,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+155,Olympus,Good,No,Gloss,Western Red Cedar,8.7,10,Figured Koa,9.2,8,183,224,103.225,Mahogany
+156,Olympus,Good,No,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,179,222,101.7,Maple
+157,Olympus,Good,No,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,180,222,101.955,Maple
+158,Olympus,Good,No,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,181,223,102.4625,Maple
+159,Olympus,Good,No,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,182,225,103.2225,Maple
+160,Olympus,Good,No,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,183,224,103.225,Maple
+161,Olympus,Good,No,Gloss,Mahogany,8.7,7,Mahogany,9,7,179,222,101.7,Mahogany
+162,Olympus,Good,No,Gloss,Mahogany,8.7,7,Mahogany,9,7,180,222,101.955,Mahogany
+163,Olympus,Good,No,Gloss,Mahogany,8.7,7,Mahogany,9,7,181,223,102.4625,Mahogany
+164,Olympus,Good,No,Gloss,Mahogany,8.7,7,Mahogany,9,7,182,225,103.2225,Mahogany
+165,Olympus,Good,No,Gloss,Mahogany,8.7,7,Mahogany,9,7,183,224,103.225,Mahogany
+166,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+167,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+168,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+169,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+170,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+171,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+172,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+173,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+174,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+175,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+176,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+177,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+178,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+179,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+180,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+181,Rainier,Bad,No,Gloss,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+182,Rainier,Bad,No,Gloss,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+183,Rainier,Bad,No,Gloss,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+184,Rainier,Bad,No,Gloss,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+185,Rainier,Bad,No,Gloss,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+186,Rainier,Bad,No,Gloss,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+187,Rainier,Bad,No,Gloss,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+188,Rainier,Bad,No,Gloss,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+189,Rainier,Bad,No,Gloss,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+190,Rainier,Bad,No,Gloss,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+191,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+192,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+193,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+194,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+195,Rainier,Good,No,Gloss,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+196,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+197,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+198,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+199,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+200,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+201,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+202,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+203,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+204,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+205,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+206,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+207,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+208,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+209,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+210,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+211,Rainier,Bad,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+212,Rainier,Bad,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+213,Rainier,Bad,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+214,Rainier,Bad,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+215,Rainier,Bad,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+216,Rainier,Bad,No,Gloss,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+217,Rainier,Bad,No,Gloss,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+218,Rainier,Bad,No,Gloss,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+219,Rainier,Bad,No,Gloss,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+220,Rainier,Bad,No,Gloss,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+221,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+222,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+223,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+224,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+225,Rainier,Good,No,Gloss,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+226,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+227,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+228,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+229,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+230,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+231,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+232,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+233,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+234,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+235,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+236,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+237,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+238,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+239,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+240,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+241,Rainier,Bad,No,Gloss,Sunken Redwood,8.1,10,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+242,Rainier,Bad,No,Gloss,Sunken Redwood,8.1,10,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+243,Rainier,Bad,No,Gloss,Sunken Redwood,8.1,10,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+244,Rainier,Bad,No,Gloss,Sunken Redwood,8.1,10,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+245,Rainier,Bad,No,Gloss,Sunken Redwood,8.1,10,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+246,Rainier,Bad,No,Gloss,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+247,Rainier,Bad,No,Gloss,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+248,Rainier,Bad,No,Gloss,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+249,Rainier,Bad,No,Gloss,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+250,Rainier,Bad,No,Gloss,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+251,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+252,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+253,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+254,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+255,Rainier,Good,No,Gloss,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+256,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+257,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+258,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+259,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+260,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+261,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+262,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+263,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+264,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+265,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+266,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+267,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+268,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+269,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+270,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+271,Rainier,Bad,No,Gloss,Western Red Cedar,8.2,10,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+272,Rainier,Bad,No,Gloss,Western Red Cedar,8.2,10,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+273,Rainier,Bad,No,Gloss,Western Red Cedar,8.2,10,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+274,Rainier,Bad,No,Gloss,Western Red Cedar,8.2,10,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+275,Rainier,Bad,No,Gloss,Western Red Cedar,8.2,10,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+276,Rainier,Bad,No,Gloss,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+277,Rainier,Bad,No,Gloss,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+278,Rainier,Bad,No,Gloss,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+279,Rainier,Bad,No,Gloss,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+280,Rainier,Bad,No,Gloss,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+281,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+282,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+283,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+284,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+285,Rainier,Good,No,Gloss,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+286,Rainier,Good,No,Gloss,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,175,215,90.95402299,Maple
+287,Rainier,Good,No,Gloss,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,174,216,90.95172414,Maple
+288,Rainier,Good,No,Gloss,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,176,214,90.95632184,Maple
+289,Rainier,Good,No,Gloss,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,175,217,91.4183908,Maple
+290,Rainier,Good,No,Gloss,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,173,218,91.1816092,Maple
+291,Rainier,Good,No,Gloss,Mahogany,8.9,7.9,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+292,Rainier,Good,No,Gloss,Mahogany,8.9,7.9,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+293,Rainier,Good,No,Gloss,Mahogany,8.9,7.9,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+294,Rainier,Good,No,Gloss,Mahogany,8.9,7.9,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+295,Rainier,Good,No,Gloss,Mahogany,8.9,7.9,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+296,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+297,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+298,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+299,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+300,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+301,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+302,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+303,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+304,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+305,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+306,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+307,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+308,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+309,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+310,Possession,Bad,No,Gloss,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+311,Possession,Bad,No,Gloss,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+312,Possession,Bad,No,Gloss,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+313,Possession,Bad,No,Gloss,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+314,Possession,Bad,No,Gloss,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+315,Possession,Bad,No,Gloss,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+316,Possession,Bad,No,Gloss,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+317,Possession,Bad,No,Gloss,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+318,Possession,Bad,No,Gloss,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+319,Possession,Bad,No,Gloss,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+320,Possession,Bad,No,Gloss,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+321,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+322,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+323,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+324,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+325,Possession,Good,No,Gloss,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+326,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+327,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+328,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+329,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+330,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+331,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+332,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+333,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+334,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+335,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+336,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+337,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+338,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+339,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+340,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+341,Possession,Bad,No,Gloss,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+342,Possession,Bad,No,Gloss,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+343,Possession,Bad,No,Gloss,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+344,Possession,Bad,No,Gloss,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+345,Possession,Bad,No,Gloss,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+346,Possession,Bad,No,Gloss,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+347,Possession,Bad,No,Gloss,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+348,Possession,Bad,No,Gloss,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+349,Possession,Bad,No,Gloss,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+350,Possession,Bad,No,Gloss,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+351,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+352,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+353,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+354,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+355,Possession,Good,No,Gloss,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+356,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+357,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+358,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+359,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+360,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+361,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+362,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+363,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+364,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+365,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+366,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+367,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+368,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+369,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+370,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+371,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+372,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+373,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+374,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+375,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+376,Possession,Bad,No,Gloss,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+377,Possession,Bad,No,Gloss,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+378,Possession,Bad,No,Gloss,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+379,Possession,Bad,No,Gloss,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+380,Possession,Bad,No,Gloss,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+381,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+382,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+383,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+384,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+385,Possession,Good,No,Gloss,Sunken Redwood,8.9,10,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+386,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+387,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+388,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+389,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+390,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+391,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+392,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+393,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+394,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+395,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+396,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+397,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+398,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+399,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+400,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+401,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+402,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+403,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+404,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+405,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+406,Possession,Bad,No,Gloss,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+407,Possession,Bad,No,Gloss,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+408,Possession,Bad,No,Gloss,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+409,Possession,Bad,No,Gloss,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+410,Possession,Bad,No,Gloss,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+411,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+412,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+413,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+414,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+415,Possession,Good,No,Gloss,Western Red Cedar,8.8,10,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+416,Possession,Good,No,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,182,226,108.9210526,Maple
+417,Possession,Good,No,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,183,227,109.4552632,Maple
+418,Possession,Good,No,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,184,228,109.9894737,Maple
+419,Possession,Good,No,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,185,229,110.5236842,Maple
+420,Possession,Good,No,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,186,230,111.0578947,Maple
+421,Possession,Good,No,Gloss,Mahogany,8.7,6.6,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+422,Possession,Good,No,Gloss,Mahogany,8.7,6.6,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+423,Possession,Good,No,Gloss,Mahogany,8.7,6.6,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+424,Possession,Good,No,Gloss,Mahogany,8.7,6.6,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+425,Possession,Good,No,Gloss,Mahogany,8.7,6.6,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+426,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+427,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+428,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+429,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+430,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+431,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Mahogany,9,7,179,222,101.7,Mahogany
+432,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Mahogany,9,7,180,222,101.955,Mahogany
+433,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Mahogany,9,7,181,223,102.4625,Mahogany
+434,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Mahogany,9,7,182,225,103.2225,Mahogany
+435,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Mahogany,9,7,183,224,103.225,Mahogany
+436,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+437,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+438,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+439,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+440,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+441,Olympus,Bad,No,Oil,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,179,222,101.7,Mahogany
+442,Olympus,Bad,No,Oil,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,180,222,101.955,Mahogany
+443,Olympus,Bad,No,Oil,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,181,223,102.4625,Mahogany
+444,Olympus,Bad,No,Oil,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,182,225,103.2225,Mahogany
+445,Olympus,Bad,No,Oil,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,183,224,103.225,Mahogany
+446,Olympus,Bad,No,Oil,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+447,Olympus,Bad,No,Oil,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+448,Olympus,Bad,No,Oil,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+449,Olympus,Bad,No,Oil,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+450,Olympus,Bad,No,Oil,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+451,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Figured Koa,9.2,8,179,222,101.7,Mahogany
+452,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Figured Koa,9.2,8,180,222,101.955,Mahogany
+453,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+454,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+455,Olympus,Good,No,Oil,Sitka Spruce,8.2,8,Figured Koa,9.2,8,183,224,103.225,Mahogany
+456,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+457,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+458,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+459,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+460,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+461,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Mahogany,9,7,179,222,101.7,Mahogany
+462,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Mahogany,9,7,180,222,101.955,Mahogany
+463,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Mahogany,9,7,181,223,102.4625,Mahogany
+464,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Mahogany,9,7,182,225,103.2225,Mahogany
+465,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Mahogany,9,7,183,224,103.225,Mahogany
+466,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+467,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+468,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+469,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+470,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+471,Olympus,Bad,No,Oil,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+472,Olympus,Bad,No,Oil,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+473,Olympus,Bad,No,Oil,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+474,Olympus,Bad,No,Oil,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+475,Olympus,Bad,No,Oil,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+476,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,179,222,101.7,Mahogany
+477,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,180,222,101.955,Mahogany
+478,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+479,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+480,Olympus,Good,No,Oil,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,183,224,103.225,Mahogany
+481,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+482,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+483,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+484,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+485,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+486,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Mahogany,9,7,179,222,101.7,Mahogany
+487,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Mahogany,9,7,180,222,101.955,Mahogany
+488,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Mahogany,9,7,181,223,102.4625,Mahogany
+489,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Mahogany,9,7,182,225,103.2225,Mahogany
+490,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Mahogany,9,7,183,224,103.225,Mahogany
+491,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+492,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+493,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+494,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+495,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+496,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,179,222,101.7,Mahogany
+497,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,180,222,101.955,Mahogany
+498,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,181,223,102.4625,Mahogany
+499,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,182,225,103.2225,Mahogany
+500,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,183,224,103.225,Mahogany
+501,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+502,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+503,Olympus,Bad,No,Oil,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+504,Olympus,Bad,No,Oil,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+505,Olympus,Bad,No,Oil,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+506,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Koa,9.2,8,179,222,101.7,Mahogany
+507,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Koa,9.2,8,180,222,101.955,Mahogany
+508,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+509,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+510,Olympus,Good,No,Oil,Sunken Redwood,8.4,10,Figured Koa,9.2,8,183,224,103.225,Mahogany
+511,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+512,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+513,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+514,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+515,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+516,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Mahogany,9,7,179,222,101.7,Mahogany
+517,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Mahogany,9,7,180,222,101.955,Mahogany
+518,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Mahogany,9,7,181,223,102.4625,Mahogany
+519,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Mahogany,9,7,182,225,103.2225,Mahogany
+520,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Mahogany,9,7,183,224,103.225,Mahogany
+521,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+522,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+523,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+524,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+525,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+526,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,179,222,101.7,Mahogany
+527,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,180,222,101.955,Mahogany
+528,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,181,223,102.4625,Mahogany
+529,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,182,225,103.2225,Mahogany
+530,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,183,224,103.225,Mahogany
+531,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+532,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+533,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+534,Olympus,Bad,No,Oil,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+535,Olympus,Bad,No,Oil,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+536,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Koa,9.2,8,179,222,101.7,Mahogany
+537,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Koa,9.2,8,180,222,101.955,Mahogany
+538,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+539,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+540,Olympus,Good,No,Oil,Western Red Cedar,8.7,10,Figured Koa,9.2,8,183,224,103.225,Mahogany
+541,Olympus,Good,No,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,179,222,101.7,Maple
+542,Olympus,Good,No,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,180,222,101.955,Maple
+543,Olympus,Good,No,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,181,223,102.4625,Maple
+544,Olympus,Good,No,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,182,225,103.2225,Maple
+545,Olympus,Good,No,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,183,224,103.225,Maple
+546,Olympus,Good,No,Oil,Mahogany,8.7,7,Mahogany,9,7,179,222,101.7,Mahogany
+547,Olympus,Good,No,Oil,Mahogany,8.7,7,Mahogany,9,7,180,222,101.955,Mahogany
+548,Olympus,Good,No,Oil,Mahogany,8.7,7,Mahogany,9,7,181,223,102.4625,Mahogany
+549,Olympus,Good,No,Oil,Mahogany,8.7,7,Mahogany,9,7,182,225,103.2225,Mahogany
+550,Olympus,Good,No,Oil,Mahogany,8.7,7,Mahogany,9,7,183,224,103.225,Mahogany
+551,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+552,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+553,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+554,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+555,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+556,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+557,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+558,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+559,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+560,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+561,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+562,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+563,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+564,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+565,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+566,Rainier,Bad,No,Oil,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+567,Rainier,Bad,No,Oil,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+568,Rainier,Bad,No,Oil,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+569,Rainier,Bad,No,Oil,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+570,Rainier,Bad,No,Oil,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+571,Rainier,Bad,No,Oil,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+572,Rainier,Bad,No,Oil,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+573,Rainier,Bad,No,Oil,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+574,Rainier,Bad,No,Oil,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+575,Rainier,Bad,No,Oil,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+576,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+577,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+578,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+579,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+580,Rainier,Good,No,Oil,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+581,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+582,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+583,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+584,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+585,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+586,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+587,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+588,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+589,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+590,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+591,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+592,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+593,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+594,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+595,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+596,Rainier,Bad,No,Oil,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+597,Rainier,Bad,No,Oil,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+598,Rainier,Bad,No,Oil,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+599,Rainier,Bad,No,Oil,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+600,Rainier,Bad,No,Oil,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+601,Rainier,Bad,No,Oil,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+602,Rainier,Bad,No,Oil,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+603,Rainier,Bad,No,Oil,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+604,Rainier,Bad,No,Oil,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+605,Rainier,Bad,No,Oil,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+606,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+607,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+608,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+609,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+610,Rainier,Good,No,Oil,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+611,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+612,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+613,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+614,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+615,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+616,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+617,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+618,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+619,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+620,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+621,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+622,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+623,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+624,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+625,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+626,Rainier,Bad,No,Oil,Sunken Redwood,8.1,10,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+627,Rainier,Bad,No,Oil,Sunken Redwood,8.1,10,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+628,Rainier,Bad,No,Oil,Sunken Redwood,8.1,10,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+629,Rainier,Bad,No,Oil,Sunken Redwood,8.1,10,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+630,Rainier,Bad,No,Oil,Sunken Redwood,8.1,10,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+631,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+632,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+633,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+634,Rainier,Bad,No,Oil,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+635,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+636,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+637,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+638,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+639,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+640,Rainier,Good,No,Oil,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+641,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+642,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+643,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+644,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+645,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+646,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+647,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+648,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+649,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+650,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+651,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+652,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+653,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+654,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+655,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+656,Rainier,Bad,No,Oil,Western Red Cedar,8.2,10,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+657,Rainier,Bad,No,Oil,Western Red Cedar,8.2,10,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+658,Rainier,Bad,No,Oil,Western Red Cedar,8.2,10,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+659,Rainier,Bad,No,Oil,Western Red Cedar,8.2,10,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+660,Rainier,Bad,No,Oil,Western Red Cedar,8.2,10,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+661,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+662,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+663,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+664,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+665,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+666,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+667,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+668,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+669,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+670,Rainier,Good,No,Oil,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+671,Rainier,Good,No,Oil,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,175,215,90.95402299,Maple
+672,Rainier,Good,No,Oil,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,174,216,90.95172414,Maple
+673,Rainier,Good,No,Oil,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,176,214,90.95632184,Maple
+674,Rainier,Good,No,Oil,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,175,217,91.4183908,Maple
+675,Rainier,Good,No,Oil,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,173,218,91.1816092,Maple
+676,Rainier,Good,No,Oil,Mahogany,8.9,7.9,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+677,Rainier,Good,No,Oil,Mahogany,8.9,7.9,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+678,Rainier,Good,No,Oil,Mahogany,8.9,7.9,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+679,Rainier,Good,No,Oil,Mahogany,8.9,7.9,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+680,Rainier,Good,No,Oil,Mahogany,8.9,7.9,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+681,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+682,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+683,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+684,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+685,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+686,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+687,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+688,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+689,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+690,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+691,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+692,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+693,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+694,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+695,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+696,Possession,Bad,No,Oil,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+697,Possession,Bad,No,Oil,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+698,Possession,Bad,No,Oil,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+699,Possession,Bad,No,Oil,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+700,Possession,Bad,No,Oil,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+701,Possession,Bad,No,Oil,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+702,Possession,Bad,No,Oil,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+703,Possession,Bad,No,Oil,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+704,Possession,Bad,No,Oil,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+705,Possession,Bad,No,Oil,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+706,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+707,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+708,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+709,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+710,Possession,Good,No,Oil,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+711,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+712,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+713,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+714,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+715,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+716,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+717,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+718,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+719,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+720,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+721,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+722,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+723,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+724,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+725,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+726,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+727,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+728,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+729,Possession,Bad,No,Oil,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+730,Possession,Bad,No,Oil,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+731,Possession,Bad,No,Oil,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+732,Possession,Bad,No,Oil,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+733,Possession,Bad,No,Oil,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+734,Possession,Bad,No,Oil,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+735,Possession,Bad,No,Oil,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+736,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+737,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+738,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+739,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+740,Possession,Good,No,Oil,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+741,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+742,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+743,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+744,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+745,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+746,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+747,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+748,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+749,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+750,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+751,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+752,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+753,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+754,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+755,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+756,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+757,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+758,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+759,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+760,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+761,Possession,Bad,No,Oil,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+762,Possession,Bad,No,Oil,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+763,Possession,Bad,No,Oil,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+764,Possession,Bad,No,Oil,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+765,Possession,Bad,No,Oil,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+766,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+767,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+768,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+769,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+770,Possession,Good,No,Oil,Sunken Redwood,8.9,10,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+771,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+772,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+773,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+774,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+775,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+776,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+777,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+778,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+779,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+780,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+781,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+782,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+783,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+784,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+785,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+786,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+787,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+788,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+789,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+790,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+791,Possession,Bad,No,Oil,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+792,Possession,Bad,No,Oil,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+793,Possession,Bad,No,Oil,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+794,Possession,Bad,No,Oil,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+795,Possession,Bad,No,Oil,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+796,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+797,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+798,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+799,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+800,Possession,Good,No,Oil,Western Red Cedar,8.8,10,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+801,Possession,Good,No,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,182,226,108.9210526,Maple
+802,Possession,Good,No,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,183,227,109.4552632,Maple
+803,Possession,Good,No,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,184,228,109.9894737,Maple
+804,Possession,Good,No,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,185,229,110.5236842,Maple
+805,Possession,Good,No,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,186,230,111.0578947,Maple
+806,Possession,Good,No,Oil,Mahogany,8.7,6.6,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+807,Possession,Good,No,Oil,Mahogany,8.7,6.6,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+808,Possession,Good,No,Oil,Mahogany,8.7,6.6,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+809,Possession,Good,No,Oil,Mahogany,8.7,6.6,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+810,Possession,Good,No,Oil,Mahogany,8.7,6.6,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+811,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+812,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+813,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+814,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+815,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+816,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Mahogany,9,7,179,222,101.7,Mahogany
+817,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Mahogany,9,7,180,222,101.955,Mahogany
+818,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Mahogany,9,7,181,223,102.4625,Mahogany
+819,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Mahogany,9,7,182,225,103.2225,Mahogany
+820,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Mahogany,9,7,183,224,103.225,Mahogany
+821,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+822,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+823,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+824,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+825,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+826,Olympus,Bad,Yes,Gloss,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,179,222,101.7,Mahogany
+827,Olympus,Bad,Yes,Gloss,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,180,222,101.955,Mahogany
+828,Olympus,Bad,Yes,Gloss,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,181,223,102.4625,Mahogany
+829,Olympus,Bad,Yes,Gloss,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,182,225,103.2225,Mahogany
+830,Olympus,Bad,Yes,Gloss,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,183,224,103.225,Mahogany
+831,Olympus,Bad,Yes,Gloss,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+832,Olympus,Bad,Yes,Gloss,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+833,Olympus,Bad,Yes,Gloss,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+834,Olympus,Bad,Yes,Gloss,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+835,Olympus,Bad,Yes,Gloss,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+836,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Figured Koa,9.2,8,179,222,101.7,Mahogany
+837,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Figured Koa,9.2,8,180,222,101.955,Mahogany
+838,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+839,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+840,Olympus,Good,Yes,Gloss,Sitka Spruce,8.2,8,Figured Koa,9.2,8,183,224,103.225,Mahogany
+841,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+842,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+843,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+844,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+845,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+846,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Mahogany,9,7,179,222,101.7,Mahogany
+847,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Mahogany,9,7,180,222,101.955,Mahogany
+848,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Mahogany,9,7,181,223,102.4625,Mahogany
+849,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Mahogany,9,7,182,225,103.2225,Mahogany
+850,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Mahogany,9,7,183,224,103.225,Mahogany
+851,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+852,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+853,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+854,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+855,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+856,Olympus,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+857,Olympus,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+858,Olympus,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+859,Olympus,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+860,Olympus,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+861,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,179,222,101.7,Mahogany
+862,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,180,222,101.955,Mahogany
+863,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+864,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+865,Olympus,Good,Yes,Gloss,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,183,224,103.225,Mahogany
+866,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+867,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+868,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+869,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+870,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+871,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Mahogany,9,7,179,222,101.7,Mahogany
+872,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Mahogany,9,7,180,222,101.955,Mahogany
+873,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Mahogany,9,7,181,223,102.4625,Mahogany
+874,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Mahogany,9,7,182,225,103.2225,Mahogany
+875,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Mahogany,9,7,183,224,103.225,Mahogany
+876,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+877,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+878,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+879,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+880,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+881,Olympus,Bad,Yes,Gloss,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,179,222,101.7,Mahogany
+882,Olympus,Bad,Yes,Gloss,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,180,222,101.955,Mahogany
+883,Olympus,Bad,Yes,Gloss,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,181,223,102.4625,Mahogany
+884,Olympus,Bad,Yes,Gloss,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,182,225,103.2225,Mahogany
+885,Olympus,Bad,Yes,Gloss,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,183,224,103.225,Mahogany
+886,Olympus,Bad,Yes,Gloss,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+887,Olympus,Bad,Yes,Gloss,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+888,Olympus,Bad,Yes,Gloss,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+889,Olympus,Bad,Yes,Gloss,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+890,Olympus,Bad,Yes,Gloss,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+891,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Figured Koa,9.2,8,179,222,101.7,Mahogany
+892,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Figured Koa,9.2,8,180,222,101.955,Mahogany
+893,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+894,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+895,Olympus,Good,Yes,Gloss,Sunken Redwood,8.4,10,Figured Koa,9.2,8,183,224,103.225,Mahogany
+896,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+897,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+898,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+899,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+900,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+901,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Mahogany,9,7,179,222,101.7,Mahogany
+902,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Mahogany,9,7,180,222,101.955,Mahogany
+903,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Mahogany,9,7,181,223,102.4625,Mahogany
+904,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Mahogany,9,7,182,225,103.2225,Mahogany
+905,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Mahogany,9,7,183,224,103.225,Mahogany
+906,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+907,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+908,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+909,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+910,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+911,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,179,222,101.7,Mahogany
+912,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,180,222,101.955,Mahogany
+913,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,181,223,102.4625,Mahogany
+914,Olympus,Bad,Yes,Gloss,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,182,225,103.2225,Mahogany
+915,Olympus,Bad,Yes,Gloss,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,183,224,103.225,Mahogany
+916,Olympus,Bad,Yes,Gloss,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+917,Olympus,Bad,Yes,Gloss,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+918,Olympus,Bad,Yes,Gloss,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+919,Olympus,Bad,Yes,Gloss,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+920,Olympus,Bad,Yes,Gloss,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+921,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Koa,9.2,8,179,222,101.7,Mahogany
+922,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Koa,9.2,8,180,222,101.955,Mahogany
+923,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+924,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+925,Olympus,Good,Yes,Gloss,Western Red Cedar,8.7,10,Figured Koa,9.2,8,183,224,103.225,Mahogany
+926,Olympus,Good,Yes,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,179,222,101.7,Maple
+927,Olympus,Good,Yes,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,180,222,101.955,Maple
+928,Olympus,Good,Yes,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,181,223,102.4625,Maple
+929,Olympus,Good,Yes,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,182,225,103.2225,Maple
+930,Olympus,Good,Yes,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,183,224,103.225,Maple
+931,Olympus,Good,Yes,Gloss,Mahogany,8.7,7,Mahogany,9,7,179,222,101.7,Mahogany
+932,Olympus,Good,Yes,Gloss,Mahogany,8.7,7,Mahogany,9,7,180,222,101.955,Mahogany
+933,Olympus,Good,Yes,Gloss,Mahogany,8.7,7,Mahogany,9,7,181,223,102.4625,Mahogany
+934,Olympus,Good,Yes,Gloss,Mahogany,8.7,7,Mahogany,9,7,182,225,103.2225,Mahogany
+935,Olympus,Good,Yes,Gloss,Mahogany,8.7,7,Mahogany,9,7,183,224,103.225,Mahogany
+936,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+937,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+938,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+939,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+940,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+941,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+942,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+943,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+944,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+945,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+946,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+947,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+948,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+949,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+950,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+951,Rainier,Bad,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+952,Rainier,Bad,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+953,Rainier,Bad,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+954,Rainier,Bad,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+955,Rainier,Bad,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+956,Rainier,Bad,Yes,Gloss,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+957,Rainier,Bad,Yes,Gloss,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+958,Rainier,Bad,Yes,Gloss,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+959,Rainier,Bad,Yes,Gloss,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+960,Rainier,Bad,Yes,Gloss,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+961,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+962,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+963,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+964,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+965,Rainier,Good,Yes,Gloss,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+966,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+967,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+968,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+969,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+970,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+971,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+972,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+973,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+974,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+975,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+976,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+977,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+978,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+979,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+980,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+981,Rainier,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+982,Rainier,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+983,Rainier,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+984,Rainier,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+985,Rainier,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+986,Rainier,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+987,Rainier,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+988,Rainier,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+989,Rainier,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+990,Rainier,Bad,Yes,Gloss,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+991,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+992,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+993,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+994,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+995,Rainier,Good,Yes,Gloss,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+996,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+997,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+998,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+999,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+1000,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+1001,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+1002,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+1003,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+1004,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+1005,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+1006,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+1007,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+1008,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+1009,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+1010,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+1011,Rainier,Bad,Yes,Gloss,Sunken Redwood,8.1,10,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+1012,Rainier,Bad,Yes,Gloss,Sunken Redwood,8.1,10,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+1013,Rainier,Bad,Yes,Gloss,Sunken Redwood,8.1,10,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+1014,Rainier,Bad,Yes,Gloss,Sunken Redwood,8.1,10,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+1015,Rainier,Bad,Yes,Gloss,Sunken Redwood,8.1,10,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+1016,Rainier,Bad,Yes,Gloss,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+1017,Rainier,Bad,Yes,Gloss,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+1018,Rainier,Bad,Yes,Gloss,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+1019,Rainier,Bad,Yes,Gloss,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+1020,Rainier,Bad,Yes,Gloss,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+1021,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+1022,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+1023,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+1024,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+1025,Rainier,Good,Yes,Gloss,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+1026,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+1027,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+1028,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+1029,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+1030,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+1031,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+1032,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+1033,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+1034,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+1035,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+1036,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+1037,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+1038,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+1039,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+1040,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+1041,Rainier,Bad,Yes,Gloss,Western Red Cedar,8.2,10,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+1042,Rainier,Bad,Yes,Gloss,Western Red Cedar,8.2,10,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+1043,Rainier,Bad,Yes,Gloss,Western Red Cedar,8.2,10,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+1044,Rainier,Bad,Yes,Gloss,Western Red Cedar,8.2,10,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+1045,Rainier,Bad,Yes,Gloss,Western Red Cedar,8.2,10,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+1046,Rainier,Bad,Yes,Gloss,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+1047,Rainier,Bad,Yes,Gloss,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+1048,Rainier,Bad,Yes,Gloss,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+1049,Rainier,Bad,Yes,Gloss,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+1050,Rainier,Bad,Yes,Gloss,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+1051,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+1052,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+1053,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+1054,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+1055,Rainier,Good,Yes,Gloss,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+1056,Rainier,Good,Yes,Gloss,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,175,215,90.95402299,Maple
+1057,Rainier,Good,Yes,Gloss,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,174,216,90.95172414,Maple
+1058,Rainier,Good,Yes,Gloss,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,176,214,90.95632184,Maple
+1059,Rainier,Good,Yes,Gloss,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,175,217,91.4183908,Maple
+1060,Rainier,Good,Yes,Gloss,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,173,218,91.1816092,Maple
+1061,Rainier,Good,Yes,Gloss,Mahogany,8.9,7.9,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+1062,Rainier,Good,Yes,Gloss,Mahogany,8.9,7.9,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+1063,Rainier,Good,Yes,Gloss,Mahogany,8.9,7.9,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+1064,Rainier,Good,Yes,Gloss,Mahogany,8.9,7.9,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+1065,Rainier,Good,Yes,Gloss,Mahogany,8.9,7.9,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+1066,Possession,Good,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+1067,Possession,Good,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+1068,Possession,Good,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+1069,Possession,Good,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+1070,Possession,Good,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+1071,Possession,Good,Yes,Gloss,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+1072,Possession,Good,Yes,Gloss,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+1073,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+1074,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+1075,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+1076,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+1077,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+1078,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+1079,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+1080,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+1081,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+1082,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+1083,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+1084,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+1085,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+1086,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+1087,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+1088,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+1089,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+1090,Possession,Bad,Yes,Gloss,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+1091,Possession,Good,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+1092,Possession,Good,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+1093,Possession,Good,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+1094,Possession,Good,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+1095,Possession,Good,Yes,Gloss,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+1096,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+1097,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+1098,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+1099,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+1100,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+1101,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+1102,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+1103,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+1104,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+1105,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+1106,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+1107,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+1108,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+1109,Possession,Bad,Yes,Gloss,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+1110,Possession,Bad,Yes,Gloss,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+1111,Possession,Bad,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+1112,Possession,Bad,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+1113,Possession,Bad,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+1114,Possession,Bad,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+1115,Possession,Bad,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+1116,Possession,Bad,Yes,Gloss,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+1117,Possession,Bad,Yes,Gloss,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+1118,Possession,Bad,Yes,Gloss,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+1119,Possession,Bad,Yes,Gloss,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+1120,Possession,Bad,Yes,Gloss,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+1121,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+1122,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+1123,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+1124,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+1125,Possession,Good,Yes,Gloss,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+1126,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+1127,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+1128,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+1129,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+1130,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+1131,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+1132,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+1133,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+1134,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+1135,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+1136,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+1137,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+1138,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+1139,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+1140,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+1141,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+1142,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+1143,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+1144,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+1145,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+1146,Possession,Bad,Yes,Gloss,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+1147,Possession,Bad,Yes,Gloss,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+1148,Possession,Bad,Yes,Gloss,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+1149,Possession,Bad,Yes,Gloss,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+1150,Possession,Bad,Yes,Gloss,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+1151,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+1152,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+1153,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+1154,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+1155,Possession,Good,Yes,Gloss,Sunken Redwood,8.9,10,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+1156,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+1157,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+1158,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+1159,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+1160,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+1161,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+1162,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+1163,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+1164,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+1165,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+1166,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+1167,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+1168,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+1169,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+1170,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+1171,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+1172,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+1173,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+1174,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+1175,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+1176,Possession,Bad,Yes,Gloss,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+1177,Possession,Bad,Yes,Gloss,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+1178,Possession,Bad,Yes,Gloss,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+1179,Possession,Bad,Yes,Gloss,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+1180,Possession,Bad,Yes,Gloss,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+1181,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+1182,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+1183,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+1184,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+1185,Possession,Good,Yes,Gloss,Western Red Cedar,8.8,10,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+1186,Possession,Good,Yes,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,182,226,108.9210526,Maple
+1187,Possession,Good,Yes,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,183,227,109.4552632,Maple
+1188,Possession,Good,Yes,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,184,228,109.9894737,Maple
+1189,Possession,Good,Yes,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,185,229,110.5236842,Maple
+1190,Possession,Good,Yes,Gloss,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,186,230,111.0578947,Maple
+1191,Possession,Bad,Yes,Gloss,Mahogany,8.7,6.6,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+1192,Possession,Bad,Yes,Gloss,Mahogany,8.7,6.6,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+1193,Possession,Bad,Yes,Gloss,Mahogany,8.7,6.6,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+1194,Possession,Bad,Yes,Gloss,Mahogany,8.7,6.6,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+1195,Possession,Bad,Yes,Gloss,Mahogany,8.7,6.6,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+1196,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+1197,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+1198,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+1199,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+1200,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+1201,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Mahogany,9,7,179,222,101.7,Mahogany
+1202,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Mahogany,9,7,180,222,101.955,Mahogany
+1203,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Mahogany,9,7,181,223,102.4625,Mahogany
+1204,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Mahogany,9,7,182,225,103.2225,Mahogany
+1205,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Mahogany,9,7,183,224,103.225,Mahogany
+1206,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+1207,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+1208,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+1209,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+1210,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+1211,Olympus,Bad,Yes,Oil,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,179,222,101.7,Mahogany
+1212,Olympus,Bad,Yes,Oil,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,180,222,101.955,Mahogany
+1213,Olympus,Bad,Yes,Oil,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,181,223,102.4625,Mahogany
+1214,Olympus,Bad,Yes,Oil,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,182,225,103.2225,Mahogany
+1215,Olympus,Bad,Yes,Oil,Sitka Spruce,8.2,8,Figured Maple,7.1,5.5,183,224,103.225,Mahogany
+1216,Olympus,Bad,Yes,Oil,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+1217,Olympus,Bad,Yes,Oil,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+1218,Olympus,Bad,Yes,Oil,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+1219,Olympus,Bad,Yes,Oil,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+1220,Olympus,Bad,Yes,Oil,Sitka Spruce,8.2,8,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+1221,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Figured Koa,9.2,8,179,222,101.7,Mahogany
+1222,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Figured Koa,9.2,8,180,222,101.955,Mahogany
+1223,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+1224,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+1225,Olympus,Good,Yes,Oil,Sitka Spruce,8.2,8,Figured Koa,9.2,8,183,224,103.225,Mahogany
+1226,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+1227,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+1228,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+1229,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+1230,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+1231,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Mahogany,9,7,179,222,101.7,Mahogany
+1232,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Mahogany,9,7,180,222,101.955,Mahogany
+1233,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Mahogany,9,7,181,223,102.4625,Mahogany
+1234,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Mahogany,9,7,182,225,103.2225,Mahogany
+1235,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Mahogany,9,7,183,224,103.225,Mahogany
+1236,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+1237,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+1238,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+1239,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+1240,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+1241,Olympus,Bad,Yes,Oil,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+1242,Olympus,Bad,Yes,Oil,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+1243,Olympus,Bad,Yes,Oil,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+1244,Olympus,Bad,Yes,Oil,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+1245,Olympus,Bad,Yes,Oil,Adirondack Spruce,8.4,8.3,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+1246,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,179,222,101.7,Mahogany
+1247,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,180,222,101.955,Mahogany
+1248,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+1249,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+1250,Olympus,Good,Yes,Oil,Adirondack Spruce,8.4,8.3,Figured Koa,9.2,8,183,224,103.225,Mahogany
+1251,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+1252,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+1253,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+1254,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+1255,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+1256,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Mahogany,9,7,179,222,101.7,Mahogany
+1257,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Mahogany,9,7,180,222,101.955,Mahogany
+1258,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Mahogany,9,7,181,223,102.4625,Mahogany
+1259,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Mahogany,9,7,182,225,103.2225,Mahogany
+1260,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Mahogany,9,7,183,224,103.225,Mahogany
+1261,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+1262,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+1263,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+1264,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+1265,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+1266,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,179,222,101.7,Mahogany
+1267,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,180,222,101.955,Mahogany
+1268,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,181,223,102.4625,Mahogany
+1269,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,182,225,103.2225,Mahogany
+1270,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Maple,7.1,5.5,183,224,103.225,Mahogany
+1271,Olympus,Bad,Yes,Oil,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+1272,Olympus,Bad,Yes,Oil,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+1273,Olympus,Bad,Yes,Oil,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+1274,Olympus,Bad,Yes,Oil,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+1275,Olympus,Bad,Yes,Oil,Sunken Redwood,8.4,10,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+1276,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Koa,9.2,8,179,222,101.7,Mahogany
+1277,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Koa,9.2,8,180,222,101.955,Mahogany
+1278,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+1279,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+1280,Olympus,Good,Yes,Oil,Sunken Redwood,8.4,10,Figured Koa,9.2,8,183,224,103.225,Mahogany
+1281,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,179,222,101.7,Myrtlewood
+1282,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,180,222,101.955,Myrtlewood
+1283,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,181,223,102.4625,Myrtlewood
+1284,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,182,225,103.2225,Myrtlewood
+1285,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Myrtlewood,9.4,9,183,224,103.225,Myrtlewood
+1286,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Mahogany,9,7,179,222,101.7,Mahogany
+1287,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Mahogany,9,7,180,222,101.955,Mahogany
+1288,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Mahogany,9,7,181,223,102.4625,Mahogany
+1289,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Mahogany,9,7,182,225,103.2225,Mahogany
+1290,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Mahogany,9,7,183,224,103.225,Mahogany
+1291,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,179,222,101.7,Mahogany
+1292,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,180,222,101.955,Mahogany
+1293,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,181,223,102.4625,Mahogany
+1294,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,182,225,103.2225,Mahogany
+1295,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Indian Rosewood,9.1,6.8,183,224,103.225,Mahogany
+1296,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,179,222,101.7,Mahogany
+1297,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,180,222,101.955,Mahogany
+1298,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,181,223,102.4625,Mahogany
+1299,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,182,225,103.2225,Mahogany
+1300,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Maple,7.1,5.5,183,224,103.225,Mahogany
+1301,Olympus,Bad,Yes,Oil,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,179,222,101.7,Mahogany
+1302,Olympus,Bad,Yes,Oil,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,180,222,101.955,Mahogany
+1303,Olympus,Bad,Yes,Oil,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,181,223,102.4625,Mahogany
+1304,Olympus,Bad,Yes,Oil,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,182,225,103.2225,Mahogany
+1305,Olympus,Bad,Yes,Oil,Western Red Cedar,8.7,10,Macassar Ebony,6.7,4.2,183,224,103.225,Mahogany
+1306,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Koa,9.2,8,179,222,101.7,Mahogany
+1307,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Koa,9.2,8,180,222,101.955,Mahogany
+1308,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Koa,9.2,8,181,223,102.4625,Mahogany
+1309,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Koa,9.2,8,182,225,103.2225,Mahogany
+1310,Olympus,Good,Yes,Oil,Western Red Cedar,8.7,10,Figured Koa,9.2,8,183,224,103.225,Mahogany
+1311,Olympus,Good,Yes,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,179,222,101.7,Maple
+1312,Olympus,Good,Yes,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,180,222,101.955,Maple
+1313,Olympus,Good,Yes,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,181,223,102.4625,Maple
+1314,Olympus,Good,Yes,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,182,225,103.2225,Maple
+1315,Olympus,Good,Yes,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,183,224,103.225,Maple
+1316,Olympus,Good,Yes,Oil,Mahogany,8.7,7,Mahogany,9,7,179,222,101.7,Mahogany
+1317,Olympus,Good,Yes,Oil,Mahogany,8.7,7,Mahogany,9,7,180,222,101.955,Mahogany
+1318,Olympus,Good,Yes,Oil,Mahogany,8.7,7,Mahogany,9,7,181,223,102.4625,Mahogany
+1319,Olympus,Good,Yes,Oil,Mahogany,8.7,7,Mahogany,9,7,182,225,103.2225,Mahogany
+1320,Olympus,Good,Yes,Oil,Mahogany,8.7,7,Mahogany,9,7,183,224,103.225,Mahogany
+1321,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+1322,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+1323,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+1324,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+1325,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+1326,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+1327,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+1328,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+1329,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+1330,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+1331,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+1332,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+1333,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+1334,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+1335,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+1336,Rainier,Bad,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+1337,Rainier,Bad,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+1338,Rainier,Bad,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+1339,Rainier,Bad,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+1340,Rainier,Bad,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+1341,Rainier,Bad,Yes,Oil,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+1342,Rainier,Bad,Yes,Oil,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+1343,Rainier,Bad,Yes,Oil,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+1344,Rainier,Bad,Yes,Oil,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+1345,Rainier,Bad,Yes,Oil,Sitka Spruce,8.2,8.5,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+1346,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+1347,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+1348,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+1349,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+1350,Rainier,Good,Yes,Oil,Sitka Spruce,8.2,8.5,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+1351,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+1352,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+1353,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+1354,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+1355,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+1356,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+1357,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+1358,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+1359,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+1360,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+1361,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+1362,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+1363,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+1364,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+1365,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+1366,Rainier,Bad,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+1367,Rainier,Bad,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+1368,Rainier,Bad,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+1369,Rainier,Bad,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+1370,Rainier,Bad,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+1371,Rainier,Bad,Yes,Oil,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+1372,Rainier,Bad,Yes,Oil,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+1373,Rainier,Bad,Yes,Oil,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+1374,Rainier,Bad,Yes,Oil,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+1375,Rainier,Bad,Yes,Oil,Adirondack Spruce,8.4,8.5,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+1376,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+1377,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+1378,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+1379,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+1380,Rainier,Good,Yes,Oil,Adirondack Spruce,8.4,8.5,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+1381,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+1382,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+1383,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+1384,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+1385,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+1386,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+1387,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+1388,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+1389,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+1390,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+1391,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+1392,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+1393,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+1394,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+1395,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+1396,Rainier,Bad,Yes,Oil,Sunken Redwood,8.1,10,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+1397,Rainier,Bad,Yes,Oil,Sunken Redwood,8.1,10,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+1398,Rainier,Bad,Yes,Oil,Sunken Redwood,8.1,10,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+1399,Rainier,Bad,Yes,Oil,Sunken Redwood,8.1,10,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+1400,Rainier,Bad,Yes,Oil,Sunken Redwood,8.1,10,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+1401,Rainier,Bad,Yes,Oil,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+1402,Rainier,Bad,Yes,Oil,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+1403,Rainier,Bad,Yes,Oil,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+1404,Rainier,Bad,Yes,Oil,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+1405,Rainier,Bad,Yes,Oil,Sunken Redwood,8.1,10,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+1406,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+1407,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+1408,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+1409,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+1410,Rainier,Good,Yes,Oil,Sunken Redwood,8.1,10,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+1411,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,175,215,90.95402299,Myrtlewood
+1412,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,174,216,90.95172414,Myrtlewood
+1413,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,176,214,90.95632184,Myrtlewood
+1414,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,175,217,91.4183908,Myrtlewood
+1415,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Figured Myrtlewood,9.4,9,173,218,91.1816092,Myrtlewood
+1416,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+1417,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+1418,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+1419,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+1420,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+1421,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,175,215,90.95402299,Mahogany
+1422,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,174,216,90.95172414,Mahogany
+1423,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,176,214,90.95632184,Mahogany
+1424,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,175,217,91.4183908,Mahogany
+1425,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Indian Rosewood,9.3,7.6,173,218,91.1816092,Mahogany
+1426,Rainier,Bad,Yes,Oil,Western Red Cedar,8.2,10,Figured Maple,7,5.5,175,215,90.95402299,Mahogany
+1427,Rainier,Bad,Yes,Oil,Western Red Cedar,8.2,10,Figured Maple,7,5.5,174,216,90.95172414,Mahogany
+1428,Rainier,Bad,Yes,Oil,Western Red Cedar,8.2,10,Figured Maple,7,5.5,176,214,90.95632184,Mahogany
+1429,Rainier,Bad,Yes,Oil,Western Red Cedar,8.2,10,Figured Maple,7,5.5,175,217,91.4183908,Mahogany
+1430,Rainier,Bad,Yes,Oil,Western Red Cedar,8.2,10,Figured Maple,7,5.5,173,218,91.1816092,Mahogany
+1431,Rainier,Bad,Yes,Oil,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,175,215,90.95402299,Mahogany
+1432,Rainier,Bad,Yes,Oil,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,174,216,90.95172414,Mahogany
+1433,Rainier,Bad,Yes,Oil,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,176,214,90.95632184,Mahogany
+1434,Rainier,Bad,Yes,Oil,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,175,217,91.4183908,Mahogany
+1435,Rainier,Bad,Yes,Oil,Western Red Cedar,8.2,10,Macassar Ebony,7.1,5.8,173,218,91.1816092,Mahogany
+1436,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,175,215,90.95402299,Mahogany
+1437,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,174,216,90.95172414,Mahogany
+1438,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,176,214,90.95632184,Mahogany
+1439,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,175,217,91.4183908,Mahogany
+1440,Rainier,Good,Yes,Oil,Western Red Cedar,8.2,10,Figured Koa,9.2,8.3,173,218,91.1816092,Mahogany
+1441,Rainier,Good,Yes,Oil,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,175,215,90.95402299,Maple
+1442,Rainier,Good,Yes,Oil,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,174,216,90.95172414,Maple
+1443,Rainier,Good,Yes,Oil,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,176,214,90.95632184,Maple
+1444,Rainier,Good,Yes,Oil,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,175,217,91.4183908,Maple
+1445,Rainier,Good,Yes,Oil,Figured Myrtlewood,9.1,9.3,Figured Myrtlewood,9.4,9,173,218,91.1816092,Maple
+1446,Rainier,Good,Yes,Oil,Mahogany,8.9,7.9,Mahogany,9.2,8.1,175,215,90.95402299,Mahogany
+1447,Rainier,Good,Yes,Oil,Mahogany,8.9,7.9,Mahogany,9.2,8.1,174,216,90.95172414,Mahogany
+1448,Rainier,Good,Yes,Oil,Mahogany,8.9,7.9,Mahogany,9.2,8.1,176,214,90.95632184,Mahogany
+1449,Rainier,Good,Yes,Oil,Mahogany,8.9,7.9,Mahogany,9.2,8.1,175,217,91.4183908,Mahogany
+1450,Rainier,Good,Yes,Oil,Mahogany,8.9,7.9,Mahogany,9.2,8.1,173,218,91.1816092,Mahogany
+1451,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+1452,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+1453,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+1454,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+1455,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+1456,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+1457,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+1458,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+1459,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+1460,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+1461,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+1462,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+1463,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+1464,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+1465,Possession,Bad,Yes,Oil,Sitka Spruce,8.2,7.5,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+1466,Possession,Bad,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+1467,Possession,Bad,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+1468,Possession,Bad,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+1469,Possession,Bad,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+1470,Possession,Bad,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+1471,Possession,Bad,Yes,Oil,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+1472,Possession,Bad,Yes,Oil,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+1473,Possession,Bad,Yes,Oil,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+1474,Possession,Bad,Yes,Oil,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+1475,Possession,Bad,Yes,Oil,Sitka Spruce,8.2,7.5,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+1476,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+1477,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+1478,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+1479,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+1480,Possession,Good,Yes,Oil,Sitka Spruce,8.2,7.5,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+1481,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+1482,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+1483,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+1484,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+1485,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+1486,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+1487,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+1488,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+1489,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+1490,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+1491,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+1492,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+1493,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+1494,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+1495,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+1496,Possession,Bad,Yes,Oil,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+1497,Possession,Bad,Yes,Oil,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+1498,Possession,Bad,Yes,Oil,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+1499,Possession,Bad,Yes,Oil,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+1500,Possession,Bad,Yes,Oil,Adirondack Spruce,8.4,8,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+1501,Possession,Bad,Yes,Oil,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+1502,Possession,Bad,Yes,Oil,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+1503,Possession,Bad,Yes,Oil,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+1504,Possession,Bad,Yes,Oil,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+1505,Possession,Bad,Yes,Oil,Adirondack Spruce,8.4,8,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+1506,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+1507,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+1508,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+1509,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+1510,Possession,Good,Yes,Oil,Adirondack Spruce,8.4,8,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+1511,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+1512,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+1513,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+1514,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+1515,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+1516,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+1517,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+1518,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+1519,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+1520,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+1521,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+1522,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+1523,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+1524,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+1525,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+1526,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+1527,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+1528,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+1529,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+1530,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+1531,Possession,Bad,Yes,Oil,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+1532,Possession,Bad,Yes,Oil,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+1533,Possession,Bad,Yes,Oil,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+1534,Possession,Bad,Yes,Oil,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+1535,Possession,Bad,Yes,Oil,Sunken Redwood,8.9,10,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+1536,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+1537,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+1538,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+1539,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+1540,Possession,Good,Yes,Oil,Sunken Redwood,8.9,10,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+1541,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,182,226,108.9210526,Myrtlewood
+1542,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,183,227,109.4552632,Myrtlewood
+1543,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,184,228,109.9894737,Myrtlewood
+1544,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,185,229,110.5236842,Myrtlewood
+1545,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Myrtlewood,9.4,9,186,230,111.0578947,Myrtlewood
+1546,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+1547,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+1548,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+1549,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+1550,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Mahogany,9,6.7,186,230,111.0578947,Mahogany
+1551,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,182,226,108.9210526,Mahogany
+1552,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,183,227,109.4552632,Mahogany
+1553,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,184,228,109.9894737,Mahogany
+1554,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,185,229,110.5236842,Mahogany
+1555,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Indian Rosewood,9,6.1,186,230,111.0578947,Mahogany
+1556,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,182,226,108.9210526,Mahogany
+1557,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,183,227,109.4552632,Mahogany
+1558,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,184,228,109.9894737,Mahogany
+1559,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,185,229,110.5236842,Mahogany
+1560,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Maple,7.2,6.1,186,230,111.0578947,Mahogany
+1561,Possession,Bad,Yes,Oil,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,182,226,108.9210526,Mahogany
+1562,Possession,Bad,Yes,Oil,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,183,227,109.4552632,Mahogany
+1563,Possession,Bad,Yes,Oil,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,184,228,109.9894737,Mahogany
+1564,Possession,Bad,Yes,Oil,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,185,229,110.5236842,Mahogany
+1565,Possession,Bad,Yes,Oil,Western Red Cedar,8.8,10,Macassar Ebony,6.3,3.1,186,230,111.0578947,Mahogany
+1566,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Koa,9.2,7.2,182,226,108.9210526,Mahogany
+1567,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Koa,9.2,8,183,227,109.4552632,Mahogany
+1568,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Koa,9.2,8,184,228,109.9894737,Mahogany
+1569,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Koa,9.2,8,185,229,110.5236842,Mahogany
+1570,Possession,Good,Yes,Oil,Western Red Cedar,8.8,10,Figured Koa,9.2,8,186,230,111.0578947,Mahogany
+1571,Possession,Good,Yes,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,182,226,108.9210526,Maple
+1572,Possession,Good,Yes,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,183,227,109.4552632,Maple
+1573,Possession,Good,Yes,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,184,228,109.9894737,Maple
+1574,Possession,Good,Yes,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,185,229,110.5236842,Maple
+1575,Possession,Good,Yes,Oil,Figured Myrtlewood,9.1,9,Figured Myrtlewood,9.4,9,186,230,111.0578947,Maple
+1576,Possession,Good,Yes,Oil,Mahogany,8.7,6.6,Mahogany,9,6.7,182,226,108.9210526,Mahogany
+1577,Possession,Good,Yes,Oil,Mahogany,8.7,6.6,Mahogany,9,6.7,183,227,109.4552632,Mahogany
+1578,Possession,Good,Yes,Oil,Mahogany,8.7,6.6,Mahogany,9,6.7,184,228,109.9894737,Mahogany
+1579,Possession,Good,Yes,Oil,Mahogany,8.7,6.6,Mahogany,9,6.7,185,229,110.5236842,Mahogany
+1580,Possession,Good,Yes,Oil,Mahogany,8.7,6.6,Mahogany,9,6.7,186,230,111.0578947,Mahogany
